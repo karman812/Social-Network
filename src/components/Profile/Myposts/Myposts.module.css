@@ -1,0 +1,17 @@
+
+.NewPostCol button{
+    background-color: #9e1e96;
+    border-radius: 10px;
+    color: white;
+    border: 0px;
+}
+.NewPostCol textarea{
+    height: 30px;
+    width: 100%;
+    border: #9e1e96 2px solid;
+    border-radius: 10px;
+}
+.NewPostCol{
+    display: flex;
+    align-items: center;
+}

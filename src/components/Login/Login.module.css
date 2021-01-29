@@ -1,0 +1,14 @@
+.textarea{
+    width: 50%;
+}
+.signInButtonCol{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0px;
+}
+.warningText{
+    transition: 0.2s;
+    color: rgba(185,2,0,0.82);
+    font-size: 15px;
+    font-weight: bold;
+}

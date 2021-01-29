@@ -1,0 +1,22 @@
+
+.nav_item{
+    font-size: 20px;
+    color: #9e1e96;
+    margin: 7px auto;
+    border-bottom: 1px white solid;
+
+   }
+   .nav_ul{
+     padding-left: 15px;
+     width: 100%;
+     list-style-type: none;
+   }
+   .nav_items_col{
+    /* box-shadow:-2px 2px 2px #ff00f221; */
+    background-color: white;
+    border-radius: 5px;
+       padding-left: 0px;
+   }
+   .nav_item_active{
+       color:  black;
+   }

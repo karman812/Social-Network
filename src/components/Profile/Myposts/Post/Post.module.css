@@ -1,0 +1,8 @@
+.item img{
+    width: 30px;
+    margin-right: 10px;
+}
+.like_col{
+    display: flex;
+    justify-content: flex-end;
+}

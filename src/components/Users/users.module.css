@@ -1,0 +1,23 @@
+.userPhoto{
+    height: 100px;
+}
+.selectedPage{
+    font-weight: bold;
+}
+.preloader{
+    transition: 0.2s;
+}
+.usersCards{
+    transition: 0.2s;
+    background-color: rgba(180,179,186,0.22);
+    padding: 20px;
+    border: 1px solid #9e0e97;
+    /*border-color: #9e0e97;*/
+    border-radius: 25px;
+}
+.userCard{
+    margin: 10px;
+}
+.followButtonCol{
+    margin: 5px 0px;
+}

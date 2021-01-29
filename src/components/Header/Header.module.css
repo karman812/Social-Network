@@ -1,0 +1,23 @@
+.header_row{
+    background-color: #9e0e97;
+    justify-content: center;
+  }
+  .header{
+    background-color: #9e0e97;
+  }
+  .main_logo{
+    width: 40px;
+    margin: 10px auto;
+  }
+  .header_text_logo{
+    width: 100px;
+    margin:-10px 0px;
+  }
+  .loginCol{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .loginCol a{
+    color: white;
+  }

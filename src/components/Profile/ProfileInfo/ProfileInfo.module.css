@@ -1,0 +1,13 @@
+.wallper{
+    width: 100%;
+    border-radius: 5px;
+}
+.statusText{
+    border: 1px black solid;
+    cursor: pointer;
+    padding: 5px;
+}
+.userAva{
+    width: 200px;
+    border-radius: 100px;
+}

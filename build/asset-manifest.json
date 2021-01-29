@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.45598a8f.chunk.css",
+    "main.js": "/my-project/static/js/main.e6348947.chunk.js",
+    "main.js.map": "/my-project/static/js/main.e6348947.chunk.js.map",
+    "runtime-main.js": "/my-project/static/js/runtime-main.ac94c847.js",
+    "runtime-main.js.map": "/my-project/static/js/runtime-main.ac94c847.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/my-project/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.89b363ee.chunk.js": "/my-project/static/js/2.89b363ee.chunk.js",
+    "static/js/2.89b363ee.chunk.js.map": "/my-project/static/js/2.89b363ee.chunk.js.map",
+    "static/css/3.8ff44a57.chunk.css": "/my-project/static/css/3.8ff44a57.chunk.css",
+    "static/js/3.b1dc959a.chunk.js": "/my-project/static/js/3.b1dc959a.chunk.js",
+    "static/js/3.b1dc959a.chunk.js.map": "/my-project/static/js/3.b1dc959a.chunk.js.map",
+    "static/css/4.7d21a5d5.chunk.css": "/my-project/static/css/4.7d21a5d5.chunk.css",
+    "static/js/4.eb32dbe0.chunk.js": "/my-project/static/js/4.eb32dbe0.chunk.js",
+    "static/js/4.eb32dbe0.chunk.js.map": "/my-project/static/js/4.eb32dbe0.chunk.js.map",
+    "index.html": "/my-project/index.html",
+    "precache-manifest.0b8db7f0edd303a3265a1866490880d2.js": "/my-project/precache-manifest.0b8db7f0edd303a3265a1866490880d2.js",
+    "service-worker.js": "/my-project/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/my-project/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/3.8ff44a57.chunk.css.map": "/my-project/static/css/3.8ff44a57.chunk.css.map",
+    "static/css/4.7d21a5d5.chunk.css.map": "/my-project/static/css/4.7d21a5d5.chunk.css.map",
+    "static/css/main.45598a8f.chunk.css.map": "/my-project/static/css/main.45598a8f.chunk.css.map",
+    "static/js/2.89b363ee.chunk.js.LICENSE.txt": "/my-project/static/js/2.89b363ee.chunk.js.LICENSE.txt",
+    "static/media/Double Ring-1s-200px.svg": "/my-project/static/media/Double Ring-1s-200px.5ccdf40c.svg",
+    "static/media/avatar.png": "/my-project/static/media/avatar.26703c84.png",
+    "static/media/karman2.png": "/my-project/static/media/karman2.54c69588.png",
+    "static/media/london.jpg": "/my-project/static/media/london.d168bddc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac94c847.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.89b363ee.chunk.js",
+    "static/css/main.45598a8f.chunk.css",
+    "static/js/main.e6348947.chunk.js"
+  ]
+}
